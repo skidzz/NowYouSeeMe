@@ -11,7 +11,7 @@
 
 - Advantages:
 
-1 . No More Worrying About People Trying To Get Access To Your Access Point Or Any Access Out There Without You Knowing.
+1 . No More Worrying About People Trying To Get Access To Your Access Point Or Any Access Point Out There Without You Knowing.
 
 - Disadvantages:
 

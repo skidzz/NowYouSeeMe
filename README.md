@@ -1,5 +1,7 @@
 # Now You See Me
 
+. A Passive Network Sniffer That Is Able To Detect If Someone Connects To Anybody's Access Point Nomatter If He Fails Or Not. It Will Catch Him And Report Back His MAC Address.
+
 - Uses:
 
 1 . It Can Catch Hackers, Internet Freeloaders And Thieves In The Act Trying To Get Access To Your Network Or Router.
